@@ -19,4 +19,6 @@ export interface LinkifyProps {
   textDecorator?: (text: string) => string;
 }
 
+export const linkify
+
 export default class Linkify extends React.Component<LinkifyProps, {}> {}
